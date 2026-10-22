@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.864,
+  "total_classes": 42,
+  "alphabet_count": 26,
+  "wlasl_count": 16,
+  "feature_dim": 101,
+  "version": "6.0.0-real-dataset"
+}
