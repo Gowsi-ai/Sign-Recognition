@@ -1,3 +1,4 @@
+ HEAD
 # SignBridge AI — Real-Time Sign Language Recognition Dashboard
 
 An end-to-end, dynamic sign-language recognition dashboard featuring an enhanced ML model pipeline, scale-invariant temporal feature engineering, prediction stabilization, and rule-based sentence/paragraph synthesis.
@@ -80,3 +81,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ```bash
 python test_pipeline.py
 ```
+
+# Sign-Recognition
+6407f0f862d4afbeccd51e10861b1cb31976b4c4
